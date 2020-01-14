@@ -1,3 +1,4 @@
+FROM floydhub/dl-docker:gpu
 # All-in-one Docker image
 FROM bvlc/caffe:gpu 
 
