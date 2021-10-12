@@ -1,6 +1,6 @@
 
 scikit-image==0.13.1
-opencv-python==3.3.0.10
+opencv-python==3.4.0.12
 
 # Copy/paste from https://github.com/classner/up/blob/master/requirements.txt
 # But pinned to specific versions
