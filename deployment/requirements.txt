@@ -5,7 +5,7 @@ opencv-python==3.3.0.10
 # Copy/paste from https://github.com/classner/up/blob/master/requirements.txt
 # But pinned to specific versions
 # Force scipy to 0.19.1
-numpy==1.13.1
+numpy==1.21.0
 scipy==0.19.1
 #sklearn
 scikit-learn==0.14.1
